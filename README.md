@@ -4,6 +4,6 @@
 
 ![Demonstração do site](/bikcraft.png)
 
-Você pode abrir o website através do link abaixo.
+Você pode acessar o website clicando <a href="https://pedromedeiros1008.github.io/bikecraft/" target="" alt="">aqui</a>.
 
-<a href="https://pedromedeiros1008.github.io/bikecraft/" target="" alt="">Visitar projeto</a>
+
