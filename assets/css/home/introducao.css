@@ -12,7 +12,8 @@
 
 .introducao-conteudo {
   align-self: end;
-  padding-bottom: 200px;
+  /* padding-bottom: 200px; */
+  padding-bottom: 12.5rem;
 }
 
 .introducao img {
@@ -23,11 +24,11 @@
 }
 
 .introducao h1 {
-  margin-bottom: 32px;
+  margin-bottom: 2rem;
 }
 
 .introducao p {
-  margin-bottom: 20px;
+  margin-bottom: 1.25rem;
 }
 
 @media (max-width: 800px) {
